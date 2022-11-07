@@ -1,0 +1,13 @@
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\Hierarchy\obj\Debug\netcoreapp2.2\Hierarchy.csproj.AssemblyReference.cache
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\Hierarchy\obj\Debug\netcoreapp2.2\Hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\Hierarchy\obj\Debug\netcoreapp2.2\Hierarchy.AssemblyInfoInputs.cache
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\Hierarchy\obj\Debug\netcoreapp2.2\Hierarchy.AssemblyInfo.cs
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\Hierarchy\obj\Debug\netcoreapp2.2\Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\Hierarchy\bin\Debug\netcoreapp2.2\Hierarchy.deps.json
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\Hierarchy\bin\Debug\netcoreapp2.2\Hierarchy.runtimeconfig.json
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\Hierarchy\bin\Debug\netcoreapp2.2\Hierarchy.runtimeconfig.dev.json
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\Hierarchy\bin\Debug\netcoreapp2.2\Hierarchy.dll
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\Hierarchy\bin\Debug\netcoreapp2.2\Hierarchy.pdb
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\Hierarchy\obj\Debug\netcoreapp2.2\Hierarchy.dll
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\Hierarchy\obj\Debug\netcoreapp2.2\Hierarchy.pdb
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\Hierarchy\obj\Debug\netcoreapp2.2\Hierarchy.genruntimeconfig.cache

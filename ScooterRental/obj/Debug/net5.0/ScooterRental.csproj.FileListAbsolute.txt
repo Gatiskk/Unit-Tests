@@ -1,0 +1,12 @@
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\ScooterRental\bin\Debug\net5.0\ScooterRental.deps.json
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\ScooterRental\bin\Debug\net5.0\ScooterRental.dll
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\ScooterRental\bin\Debug\net5.0\ScooterRental.pdb
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\ScooterRental\obj\Debug\net5.0\ScooterRental.csproj.AssemblyReference.cache
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\ScooterRental\obj\Debug\net5.0\ScooterRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\ScooterRental\obj\Debug\net5.0\ScooterRental.AssemblyInfoInputs.cache
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\ScooterRental\obj\Debug\net5.0\ScooterRental.AssemblyInfo.cs
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\ScooterRental\obj\Debug\net5.0\ScooterRental.csproj.CoreCompileInputs.cache
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\ScooterRental\obj\Debug\net5.0\ScooterRental.dll
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\ScooterRental\obj\Debug\net5.0\refint\ScooterRental.dll
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\ScooterRental\obj\Debug\net5.0\ScooterRental.pdb
+C:\Users\Gatis\Desktop\c-sharp-syllabus-main\c-sharp-syllabus-main\csharp-basics\exercises\Polymorphism\ScooterRental\obj\Debug\net5.0\ref\ScooterRental.dll
